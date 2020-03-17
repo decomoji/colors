@@ -2,7 +2,7 @@ import {
   DecomojiColorsHEXType,
   DecomojiColorsRGBType,
   DecomojiColorsHSLType
-} from './DecomojiColorsTypes'
+} from './models/DecomojiColorsTypes'
 
 export const DecomojiColorsHEX: DecomojiColorsHEXType[] = [
   "dd3b40",
