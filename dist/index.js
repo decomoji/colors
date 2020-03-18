@@ -1,4 +1,4 @@
-module.exports = DecomojiColorsHEX = [
+module.exports.DecomojiColorsHEX = [
   "dd3b40",
   "c05b2c",
   "9f7e00",
@@ -13,7 +13,7 @@ module.exports = DecomojiColorsHEX = [
   "a36969"
 ];
 
-module.exports = DecomojiColorsRGB = [
+module.exports.DecomojiColorsRGB = [
   "240,59,64",
   "192,91,44",
   "159,126,0",
@@ -28,7 +28,7 @@ module.exports = DecomojiColorsRGB = [
   "163,105,105"
 ];
 
-module.exports = DecomojiColorsHSL = [
+module.exports.DecomojiColorsHSL = [
   "358,86,59",
   "19,63,46",
   "48,100,31",
