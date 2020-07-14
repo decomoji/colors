@@ -1,6 +1,6 @@
 {
   "name": "@decomoji/colors",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "color code of decomoji",
   "main": "dist/index.js",
   "repository": {
