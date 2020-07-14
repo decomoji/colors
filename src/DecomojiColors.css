@@ -14,30 +14,30 @@
   --DecomojiColorsCoralHex: #a36969;
 
   /* RGB */
-  --DecomojiColorsTomatoRgb: 221,59,64;
-  --DecomojiColorsChocolateRgb: 192,91,44;
-  --DecomojiColorsGoldRgb: 159,126,0;
-  --DecomojiColorsOliveRgb: 104,130,0;
-  --DecomojiColorsForestRgb: 0,140,34;
-  --DecomojiColorsTealRgb: 0,135,128;
-  --DecomojiColorsCeruleanRgb: 0,129,177;
-  --DecomojiColorsDenimRgb: 71,127,155;
-  --DecomojiColorsDanubeRgb: 93,121,170;
-  --DecomojiColorsLavenderRgb: 161,86,210;
-  --DecomojiColorsAzaleaRgb: 212,56,146;
-  --DecomojiColorsCoralRgb: 163,105,105;
+  --DecomojiColorsTomatoRgb: 221, 59, 64;
+  --DecomojiColorsChocolateRgb: 192, 91, 44;
+  --DecomojiColorsGoldRgb: 159, 126, 0;
+  --DecomojiColorsOliveRgb: 104, 130, 0;
+  --DecomojiColorsForestRgb: 0, 140, 34;
+  --DecomojiColorsTealRgb: 0, 135, 128;
+  --DecomojiColorsCeruleanRgb: 0, 129, 177;
+  --DecomojiColorsDenimRgb: 71, 127, 155;
+  --DecomojiColorsDanubeRgb: 93, 121, 170;
+  --DecomojiColorsLavenderRgb: 161, 86, 210;
+  --DecomojiColorsAzaleaRgb: 212, 56, 146;
+  --DecomojiColorsCoralRgb: 163, 105, 105;
 
   /* HSL */
-  --DecomojiColorsTomatoHsl: 358,86,59;
-  --DecomojiColorsChocolateHsl: 19,63,46;
-  --DecomojiColorsGoldHsl: 48,100,31;
-  --DecomojiColorsOliveHsl: 72,100,25;
-  --DecomojiColorsForestHsl: 135,100,27;
-  --DecomojiColorsTealHsl: 177,100,26;
-  --DecomojiColorsCeruleanHsl: 196,100,35;
-  --DecomojiColorsDenimHsl: 200,37,44;
-  --DecomojiColorsDanubeHsl: 218,31,52;
-  --DecomojiColorsLavenderHsl: 276,58,58;
-  --DecomojiColorsAzaleaHsl: 325,64,53;
-  --DecomojiColorsCoralHsl: 0,24,53;
+  --DecomojiColorsTomatoHsl: 358, 86, 59;
+  --DecomojiColorsChocolateHsl: 19, 63, 46;
+  --DecomojiColorsGoldHsl: 48, 100, 31;
+  --DecomojiColorsOliveHsl: 72, 100, 25;
+  --DecomojiColorsForestHsl: 135, 100, 27;
+  --DecomojiColorsTealHsl: 177, 100, 26;
+  --DecomojiColorsCeruleanHsl: 196, 100, 35;
+  --DecomojiColorsDenimHsl: 200, 37, 44;
+  --DecomojiColorsDanubeHsl: 218, 31, 52;
+  --DecomojiColorsLavenderHsl: 276, 58, 58;
+  --DecomojiColorsAzaleaHsl: 325, 64, 53;
+  --DecomojiColorsCoralHsl: 0, 24, 53;
 }
