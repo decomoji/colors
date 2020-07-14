@@ -17,55 +17,55 @@
 | ![azalea](./src/images/10_azalea.png)      | azalea    | `d43892` | `212,56,146`  | `325,64,53`  |
 | ![coral](./src/images/11_coral.png)        | coral     | `a36969` | `163,105,105` | `0,24,53`    |
 
-## HEX Color
+## HEX
 
 ```
-#dd3b40
-#c05b2c
-#9f7e00
-#688200
-#008c22
-#008780
-#0081b1
-#477f9b
-#5d79aa
-#a156d2
-#d43892
-#a36969
+#dd3b40 // tomato
+#c05b2c // chocolate
+#9f7e00 // gold
+#688200 // olive
+#008c22 // forest
+#008780 // teal
+#0081b1 // cerulean
+#477f9b // denim
+#5d79aa // danube
+#a156d2 // lavender
+#d43892 // azalea
+#a36969 // coral
 ```
 
 ## RGB
 
 ```
-rgb(221, 59, 64)
-rgb(192, 91, 44)
-rgb(159, 126, 0)
-rgb(104, 130, 0)
-rgb(0, 140, 34)
-rgb(0, 135, 128)
-rgb(0, 129, 177)
-rgb(71, 127, 155)
-rgb(93, 121, 170)
-rgb(161, 86, 210)
-rgb(212, 56, 146)
-rgb(163, 105, 105)
+rgb(221, 59, 64)   // tomato
+rgb(192, 91, 44)   // chocolate
+rgb(159, 126, 0)   // gold
+rgb(104, 130, 0)   // olive
+rgb(0, 140, 34)    // forest
+rgb(0, 135, 128)   // teal
+rgb(0, 129, 177)   // cerulean
+rgb(71, 127, 155)  // denim
+rgb(93, 121, 170)  // danube
+rgb(161, 86, 210)  // lavender
+rgb(212, 56, 146)  // azalea
+rgb(163, 105, 105) // coral
 ```
 
 ## HSL
 
 ```
-hsl(358, 86, 59)
-hsl(19, 63, 46)
-hsl(48, 100, 31)
-hsl(72, 100, 25)
-hsl(135, 100, 27)
-hsl(177, 100, 26)
-hsl(196, 100, 35)
-hsl(200, 37, 44)
-hsl(218, 31, 52)
-hsl(276, 58, 58)
-hsl(325, 64, 53)
-hsl(0, 24, 53)
+hsl(358, 86, 59)  // tomato
+hsl(19, 63, 46)   // chocolate
+hsl(48, 100, 31)  // gold
+hsl(72, 100, 25)  // olive
+hsl(135, 100, 27) // forest
+hsl(177, 100, 26) // teal
+hsl(196, 100, 35) // cerulean
+hsl(200, 37, 44)  // denim
+hsl(218, 31, 52)  // danube
+hsl(276, 58, 58)  // lavender
+hsl(325, 64, 53)  // azalea
+hsl(0, 24, 53)    // coral
 ```
 
 ## ファイル形式
@@ -79,7 +79,7 @@ hsl(0, 24, 53)
 - [.css](src/DecomojiClors.css)
 - [.scss](src/DecomojiClors.scss)
 
-また、TypeScript 向けに[型定義](src/models/DecomojiColorsTypes.ts)もあります。
+また、TypeScript 向けに[型定義](src/models/)もあります。
 
 ## ライセンス
 
