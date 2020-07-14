@@ -1,12 +1,14 @@
 {
   "name": "@decomoji/colors",
   "version": "1.0.0",
-  "description": "color code of decomoji",
+  "description": "12 color code of decomoji.",
   "main": "dist/index.js",
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/decomoji/colors.git"
   },
+  "keywords": ["decomoji", "color code"],
   "author": "decomoji",
   "license": "MIT",
   "bugs": {
