@@ -1,19 +1,16 @@
 {
-  "name": "@decomoji/decomoji-colors",
+  "name": "@decomoji/colors",
   "version": "1.2.0",
-  "description": "color set for decomoji",
+  "description": "color code of decomoji",
   "main": "dist/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/decomoji/decomoji-colors.git"
+    "url": "git+https://github.com/decomoji/colors.git"
   },
   "author": "decomoji",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/decomoji/decomoji-colors/issues"
+    "url": "https://github.com/decomoji/colors/issues"
   },
-  "homepage": "https://github.com/decomoji/decomoji-colors#readme"
+  "homepage": "https://github.com/decomoji/colors#readme"
 }
