@@ -1,6 +1,6 @@
 # decomoji-colors
 
-[デコモジ](https://github.com/decomoji/slack-reaction-decomoji)で使われている 12 色のカラーセットです。
+12 color code of [decomoji](https://github.com/decomoji/slack-reaction-decomoji).
 
 | chip                                       | name      | HEX      | RGB           | HSL          |
 | ------------------------------------------ | --------- | -------- | ------------- | ------------ |
@@ -17,7 +17,9 @@
 | ![azalea](./src/images/10_azalea.png)      | azalea    | `d43892` | `212,56,146`  | `325,64,53`  |
 | ![coral](./src/images/11_coral.png)        | coral     | `a36969` | `163,105,105` | `0,24,53`    |
 
-## HEX
+## Code
+
+### HEX
 
 ```
 #dd3b40 // tomato
@@ -34,7 +36,7 @@
 #a36969 // coral
 ```
 
-## RGB
+### RGB
 
 ```
 rgb(221, 59, 64)   // tomato
@@ -51,7 +53,7 @@ rgb(212, 56, 146)  // azalea
 rgb(163, 105, 105) // coral
 ```
 
-## HSL
+### HSL
 
 ```
 hsl(358, 86, 59)  // tomato
@@ -68,9 +70,7 @@ hsl(325, 64, 53)  // azalea
 hsl(0, 24, 53)    // coral
 ```
 
-## ファイル形式
-
-下記のファイル形式を用意しています。
+## Files
 
 - [.json](src/DecomojiColors.json)
 - [.js](src/DecomojiColors.js)
@@ -79,8 +79,6 @@ hsl(0, 24, 53)    // coral
 - [.css](src/DecomojiClors.css)
 - [.scss](src/DecomojiClors.scss)
 
-また、TypeScript 向けに[型定義](src/models/)もあります。
-
-## ライセンス
+## License
 
 [MIT](LICENSE).
