@@ -77,6 +77,7 @@ hsl(0, 24, 53)
 - [.ts](src/DecomojiColors.ts)
 - .csv（[HEX](src/DecomojiColorsHEX.csv), [RGB](src/DecomojiColorsRGB.csv), [HSL](src/DecomojiColorsHSL.csv)）
 - [.css](src/DecomojiClors.css)
+- [.scss](src/DecomojiClors.scss)
 
 また、TypeScript 向けに[型定義](src/models/DecomojiColorsTypes.ts)もあります。
 
