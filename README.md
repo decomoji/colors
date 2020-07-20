@@ -81,4 +81,4 @@ hsl(0, 24, 53)    // coral
 
 ## License
 
-[MIT](LICENSE).
+Copyright (c) oti. Under the [MIT License](LICENSE).
