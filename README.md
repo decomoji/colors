@@ -76,8 +76,8 @@ hsl(0, 24, 53)    // coral
 - [.js](src/DecomojiColors.js)
 - [.ts](src/DecomojiColors.ts)
 - .csv（[HEX](src/DecomojiColorsHEX.csv), [RGB](src/DecomojiColorsRGB.csv), [HSL](src/DecomojiColorsHSL.csv)）
-- [.css](src/DecomojiClors.css)
-- [.scss](src/DecomojiClors.scss)
+- [.css](src/DecomojiColors.css)
+- [.scss](src/DecomojiColors.scss)
 
 ## License
 
