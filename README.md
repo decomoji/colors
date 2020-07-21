@@ -1,6 +1,6 @@
 # decomoji-colors
 
-12 color code of [decomoji](https://github.com/decomoji/slack-reaction-decomoji).
+12 color code of [decomoji](https://github.com/decomoji/decomoji).
 
 | chip                                       | name      | HEX      | RGB           | HSL          |
 | ------------------------------------------ | --------- | -------- | ------------- | ------------ |
